@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326603569539",
+    "project_id": "bookforme-d8715",
+    "storage_bucket": "bookforme-d8715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326603569539:android:2e1039fc344e0d2ce81eb6",
+        "android_client_info": {
+          "package_name": "com.example.bookforme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326603569539-g7i3ne1j5evbv67opdo7mu0jvkrlmpg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaUflr-rSQmTypeOcS6pCAjyM14-eOR5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326603569539-g7i3ne1j5evbv67opdo7mu0jvkrlmpg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
